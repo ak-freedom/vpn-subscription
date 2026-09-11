@@ -1,0 +1,14 @@
+{
+  "checked_at": "2026-09-11T05:59:59.882395+00:00",
+  "candidates": 38300,
+  "working": 496,
+  "rounds": 3,
+  "source_errors": 0,
+  "working_protocols": {
+    "shadowsocks": 16,
+    "vless": 433,
+    "trojan": 32,
+    "socks": 1,
+    "vmess": 14
+  }
+}
