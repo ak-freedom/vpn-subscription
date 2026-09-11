@@ -46,9 +46,8 @@ GitHub хранит готовую подписку и сводку послед
 ## Основа проекта
 
 За основу взяты [PulseConfigs](https://github.com/drmikecrypto/PulseConfigs) и
-[collector_gui.py](https://github.com/dequar/deqwl/blob/main/collector_gui.py)
-из репозитория [dequar/deqwl](https://github.com/dequar/deqwl).
+коллектор из репозитория [dequar/deqwl](https://github.com/dequar/deqwl).
 Код разбора, фильтрации и экспорта перенесён в локальные модули сборщика;
 установка PulseConfigs и каталог vendor для запуска не нужны.
-Из collector_gui.py адаптирована идея предварительной TCP-проверки VLESS;
+Из коллектора адаптирована идея предварительной TCP-проверки VLESS;
 графический интерфейс, определение страны и его способ удаления повторов не используются.
