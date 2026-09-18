@@ -1,6 +1,4 @@
-trojan://humanity@88.198.82.150:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#0102%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B607ms%5D
-trojan://humanity@88.198.82.150:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#0119%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B744ms%5D
-trojan://f0eb9f67-ef76-40aa-a1e6-22a11d5a9379@13.250.28.5:44370?fp=chrome&path=/&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&security=reality&sid=c9672c5ded53a018&sni=www.yahoo.com#0161%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B1293ms%5D
-trojan://7647b321-4bfe-43f3-b21f-926c5de8f9b6@13.250.28.5:44370?security=reality&sni=www.yahoo.com&fp=chrome&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&sid=c9672c5ded53a018&path=/#0163%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B1300ms%5D
-trojan://f0eb9f67-ef76-40aa-a1e6-22a11d5a9379@13.250.28.5:44370?security=reality&sni=www.yahoo.com&fp=chrome&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&sid=c9672c5ded53a018&path=/#0167%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B1331ms%5D
-trojan://humanity@176.97.66.175:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#0173%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20%5B1560ms%5D
+trojan://wphetm3l4awlpn7y@202.133.90.105:1819?security=none&headerType=&type=tcp#0143%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20%5B542ms%5D
+trojan://humanity@88.198.82.150:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#0161%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B627ms%5D
+trojan://humanity@88.198.82.150:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#0221%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B846ms%5D
+trojan://humanity@88.198.82.150:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#0260%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B1037ms%5D

@@ -1,2 +1,6 @@
-anytls://AOQ8R6Z8cODflQvPa6Q5pA==@154.26.177.228:443?insecure=1#0137%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B932ms%5D
-anytls://2d7bda32-a8b5-4416-a1ea-4559ff98f86e@us13.vipjiedian.sbs:21333?insecure=1&sni=apple.com#0144%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B957ms%5D
+anytls://2d7bda32-a8b5-4416-a1ea-4559ff98f86e@us13.vipjiedian.sbs:21333?sni=apple.com&insecure=1#0231%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B935ms%5D
+anytls://9e98496a-0036-4cc6-8302-3929c29ba772@iijjp.mggl.wang:35791?security=tls&type=tcp&packetEncoding=none&alpn=h2&allowInsecure=1&sni=www.apple.com&fp=chrome&insecure=1&sub_tag=R002-260618&udp=1#0265%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B1069ms%5D
+anytls://2d7bda32-a8b5-4416-a1ea-4559ff98f86e@us13.vipjiedian.sbs:21333?insecure=1&sni=apple.com#0268%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B1085ms%5D
+anytls://9sK2mP8xQ7vL3nZ6@ac7548f3ebe045b39a90288ff1e97528.pnuqcnp.cn:443?sni=ac7548f3ebe045b39a90288ff1e97528.lwdnxf.cn&insecure=1#0307%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1489ms%5D
+anytls://9sK2mP8xQ7vL3nZ6@6ivh.pnuqcnp.cn:443?sni=images.ctfassets.net&insecure=1#0315%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1600ms%5D
+anytls://9sK2mP8xQ7vL3nZ6@awefd2313fefarg23fr24.pnuqcnp.cn:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=images.ctfassets.net&insecure=1&sub_tag=R002-260618&udp=1&username=9sK2mP8xQ7vL3nZ6#0343%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B2775ms%5D
