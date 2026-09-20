@@ -1,6 +1,11 @@
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru&security=tls#0001%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B220ms%5D
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.153:8443?sni=grape-turbo-fr.roxa.org#0068%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20%5B373ms%5D
-hysteria2://hysteria2_fastlane_f6dt3q19m:vqCgcZnSL76jftd4853Sq8pUCmsYIjTJ@87.239.111.109:1935?sni=ru2.h.smartaisupport.ru#0191%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B473ms%5D
-hysteria2://fa1b99c89b5479752ae95af92a79e833@89.124.86.136:1443?sni=fast.patrik-service.com&security=tls#0289%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20%5B971ms%5D
-hysteria2://15e4b4d192a59864ae52f9ea6f4ef93c@47.83.4.146:443?insecure=1&obfs=salamander&obfs-password=5c8f1a3e7b2d9046c1f8a5e3b7d04f2a#0298%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1120ms%5D
-hysteria2://1027576c-c4df-4277-b3ef-38d3213b6574@161.118.253.238:443?insecure=1&sni=www.bing.com#0333%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B1624ms%5D
+hy2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=91.240.86.70&insecure=1#0001%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B205ms%5D
+hy2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru&insecure=0#0002%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B211ms%5D
+hy2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443/?hop_interval=10&sni=hy.quattro-tech.ru#0005%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B229ms%5D
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru#0010%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B255ms%5D
+hysteria2://1e6fed5b-5edc-4ddb-a268-79d7fae4365c@95.133.242.213:30443?sni=filesconvert.org#0080%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B375ms%5D
+hysteria2://2a3b101d-d8f9-40e7-9373-b0ef487c0035@46.8.210.152:23443?sni=disk.api-yandex.net#0262%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B564ms%5D
+hysteria2://maintell@107.172.67.52:2053?insecure=1&obfs=salamander&obfs-password=maintell&sni=bing.com#0331%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B966ms%5D
+hysteria2://9336eb00712427abf8ef69d80d454930@47.76.172.190:443?insecure=1&obfs=salamander&obfs-password=5c8f1a3e7b2d9046c1f8a5e3b7d04f2a#0346%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1115ms%5D
+hy2://d042d150716709bb778cc73889cddb02@138.2.89.249:443?sni=www.bing.com&obfs=salamander&obfs-password=309502c4a8df10b46fb976d4a8c43f42&insecure=1#0353%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B1263ms%5D
+hysteria2://d042d150716709bb778cc73889cddb02@138.2.89.249:443?insecure=1&obfs=salamander&obfs-password=309502c4a8df10b46fb976d4a8c43f42&sni=www.bing.com#0358%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B1302ms%5D
+hysteria2://hysteria2_fastlane_f6dt3q19m:vqCgcZnSL76jftd4853Sq8pUCmsYIjTJ@87.239.111.109:1935?sni=ru2.h.smartaisupport.ru#0409%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B2027ms%5D
