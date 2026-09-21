@@ -1,2 +1,2 @@
-trojan://humanity@88.198.82.150:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#0284%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B628ms%5D
-trojan://humanity@88.198.82.150:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#0321%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B872ms%5D
+trojan://wYQ9WYorgO@213.171.27.80:37490?fp=chrome&security=none&type=raw#0259%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B2437ms%5D
+trojan://humanity@88.198.82.150:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#0282%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B4017ms%5D
