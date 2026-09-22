@@ -1,7 +1,6 @@
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?insecure=1&sni=91.240.86.70#0002%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B214ms%5D
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=itsallproxy.quattro-tech.ru#0003%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B215ms%5D
-hysteria2://gf1:gfhysteria2024@173.212.201.85:443/?insecure=1&sni=www.docker.com#0122%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B409ms%5D
-hysteria2://gf1:gfhysteria2024@173.212.201.85:443?insecure=1#0124%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B410ms%5D
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.187:8443?sni=hopp-romania-new.roxa.org#0177%20%7C%20%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%7C%20%5B600ms%5D
-hysteria2://15e4b4d192a59864ae52f9ea6f4ef93c@47.83.4.146:443?insecure=1&obfs=salamander&obfs-password=5c8f1a3e7b2d9046c1f8a5e3b7d04f2a#0208%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1154ms%5D
-hysteria2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1#0247%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1974ms%5D
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?alpn=h3&insecure=1&sni=hy.quattro-tech.ru#0001%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B197ms%5D
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?insecure=0&sni=itsallproxy.quattro-tech.ru#0002%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B203ms%5D
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=itsallproxy.quattro-tech.ru#0003%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B204ms%5D
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?insecure=0&sni=hy.quattro-tech.ru#0004%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B223ms%5D
+hysteria2://gf1:gfhysteria2024@173.212.201.85:443?insecure=1#0035%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B433ms%5D
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#0118%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1390ms%5D
