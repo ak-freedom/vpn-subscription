@@ -1,0 +1,2 @@
+tuic://8A9905B7-801B-41AF-BFC9-2034212770F6:8A9905B7-801B-41AF-BFC9-2034212770F6@tw3.dexlos.com:8080?congestion_control=bbr&udp_relay_mode=native&sni=tw3.dexlos.com&alpn=h3#0231%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1167ms%5D
+tuic://8A9905B7-801B-41AF-BFC9-2034212770F6:8A9905B7-801B-41AF-BFC9-2034212770F6@tw3.dexlos.com:8080?alpn=h3&congestion_control=bbr&sni=tw3.dexlos.com&sub_tag=R002-260618&udp=true&udp_relay_mode=native&version=5#0232%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1210ms%5D

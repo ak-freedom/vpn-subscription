@@ -1,2 +1,0 @@
-trojan://trojan@104.18.12.229:8443?security=tls&type=ws&sni=longwanghen.pages.dev&allowInsecure=0&path=%2F#0113%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B393ms%5D
-trojan://trojan@104.18.12.229:8443?sni=longwanghen.pages.dev&type=ws&path=%2F&fp=chrome#0215%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B496ms%5D
