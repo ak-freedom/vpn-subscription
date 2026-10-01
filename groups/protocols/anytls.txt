@@ -1,4 +1,9 @@
-anytls://2d7bda32-a8b5-4416-a1ea-4559ff98f86e@us13.vipjiedian.sbs:21333?sni=apple.com&insecure=1#0332%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B957ms%5D
-anytls://9sK2mP8xQ7vL3nZ6@ac7548f3ebe045b39a90288ff1e97528.pnuqcnp.cn:443?sni=ac7548f3ebe045b39a90288ff1e97528.lwdnxf.cn&insecure=1#0360%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1126ms%5D
-anytls://d7340868-b74c-455a-8ce0-17a52afa43b7@134.195.101.162:21333?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=apple.com&insecure=1&sub_tag=R002-260618&udp=1#0389%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B1481ms%5D
-anytls://9sK2mP8xQ7vL3nZ6@awefd2313fefarg23fr24.pnuqcnp.cn:443?sni=images.ctfassets.net&insecure=1#0412%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B2114ms%5D
+anytls://2d7bda32-a8b5-4416-a1ea-4559ff98f86e@us13.vipjiedian.sbs:21333?sni=apple.com&insecure=1#0262%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B884ms%5D
+anytls://2d7bda32-a8b5-4416-a1ea-4559ff98f86e@us13.vipjiedian.sbs:21333?insecure=1&sni=apple.com#0285%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B959ms%5D
+anytls://9sK2mP8xQ7vL3nZ6@ac7548f3ebe045b39a90288ff1e97528.pnuqcnp.cn:443?sni=ac7548f3ebe045b39a90288ff1e97528.lwdnxf.cn&insecure=1#0317%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1108ms%5D
+anytls://9sK2mP8xQ7vL3nZ6@ac7548f3ebe045b39a90288ff1e97526.pnuqcnp.cn:443?sni=ac7548f3ebe045b39a90288ff1e97526.lwdnxf.cn&insecure=1#0390%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1309ms%5D
+anytls://3fc0f254-54c3-4cf3-896b-5999a2b4c757@tw63-kb.cybergalaxy.me:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=tw63-kb.cybergalaxy.me&insecure=1&sub_tag=P002-260618&udp=1#0395%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1335ms%5D
+anytls://3fc0f254-54c3-4cf3-896b-5999a2b4c757@yazhou06.cybergalaxy.me:443?sni=yazhou06.cybergalaxy.me&insecure=1#0396%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1335ms%5D
+anytls://9sK2mP8xQ7vL3nZ6@ac7548f3ebe045b39a90288ff1e97526.pnuqcnp.cn:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=127.0.0.1&insecure=1&sub_tag=S001-260618&udp=1&username=9sK2mP8xQ7vL3nZ6#0398%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1339ms%5D
+anytls://b652305a-0c63-4527-8cb3-0ea582076124@194.113.194.231:1443?insecure=1&sni=ny.freeguard.org#0400%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B1347ms%5D
+anytls://9sK2mP8xQ7vL3nZ6@ac7548f3ebe045b39a90288ff1e97526.pnuqcnp.cn:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=127.0.0.1&insecure=1&sub_tag=P002-260618&udp=1&username=9sK2mP8xQ7vL3nZ6&disable_sni=true#0416%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1413ms%5D
