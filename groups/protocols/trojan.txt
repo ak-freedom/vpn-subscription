@@ -1,1 +1,1 @@
-trojan://uCzwXi06tusoiP5kAUKrsg@195.15.202.111:80?headerType=http&host=www.upwork.com&security=none&type=tcp#0043%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B309ms%5D
+trojan://uCzwXi06tusoiP5kAUKrsg@195.15.202.111:80?headerType=http&host=www.upwork.com&security=none&type=tcp#0017%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B294ms%5D
