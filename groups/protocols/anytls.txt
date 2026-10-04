@@ -1,5 +1,5 @@
-anytls://2d7bda32-a8b5-4416-a1ea-4559ff98f86e@us13.vipjiedian.sbs:21333?sni=apple.com&insecure=1#0158%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B920ms%5D
-anytls://9sK2mP8xQ7vL3nZ6@ac7548f3ebe045b39a90288ff1e97528.pnuqcnp.cn:443?sni=ac7548f3ebe045b39a90288ff1e97528.lwdnxf.cn&insecure=1#0166%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1084ms%5D
-anytls://9sK2mP8xQ7vL3nZ6@ac7548f3ebe045b39a90288ff1e97526.pnuqcnp.cn:443?sni=ac7548f3ebe045b39a90288ff1e97526.lwdnxf.cn&insecure=1#0181%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1293ms%5D
-anytls://9sK2mP8xQ7vL3nZ6@ac7548f3ebe045b39a90288ff1e97526.pnuqcnp.cn:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=127.0.0.1&insecure=1&sub_tag=S001-260618&udp=1&username=9sK2mP8xQ7vL3nZ6#0192%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1385ms%5D
-anytls://9sK2mP8xQ7vL3nZ6@awefd2313fefarg23fr24.pnuqcnp.cn:443?sni=images.ctfassets.net&insecure=1#0214%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B2041ms%5D
+anytls://2d7bda32-a8b5-4416-a1ea-4559ff98f86e@us13.vipjiedian.sbs:21333?sni=apple.com&insecure=1#0310%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B906ms%5D
+anytls://9sK2mP8xQ7vL3nZ6@ac7548f3ebe045b39a90288ff1e97526.pnuqcnp.cn:443?sni=ac7548f3ebe045b39a90288ff1e97526.lwdnxf.cn&insecure=1#0354%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1272ms%5D
+anytls://9sK2mP8xQ7vL3nZ6@ac7548f3ebe045b39a90288ff1e97526.pnuqcnp.cn:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=127.0.0.1&insecure=1&sub_tag=P002-260618&udp=1&username=9sK2mP8xQ7vL3nZ6&disable_sni=true#0378%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1493ms%5D
+anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@3eqhzekn.zf-mix.9999231.xyz:1008?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=co-af01e9.9999231.xyz&insecure=1&sub_tag=P002-260618&udp=1#0386%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B1642ms%5D
+anytls://9sK2mP8xQ7vL3nZ6@awefd2313fefarg23fr24.pnuqcnp.cn:443?sni=images.ctfassets.net&insecure=1#0404%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1932ms%5D
