@@ -1,2 +1,0 @@
-anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@aqz8a8ak.zf-mix.9999231.xyz:1012?sni=fr-house.9999231.xyz&insecure=1#0528%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B1969ms%5D
-anytls://6725d134ee80@98416548.df6h451rh.xin:443?sni=images.ctfassets.net&insecure=1#0539%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B2219ms%5D
