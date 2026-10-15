@@ -1,17 +1,16 @@
-trojan://UX82473651@18.141.136.8:443?fp=chrome&sni=musical-mouse.rooster465.autos&type=tcp#0481%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B972ms%5D
-trojan://UX82473651@18.141.136.8:443?security=tls&type=tcp&sni=musical-mouse.rooster465.autos&allowInsecure=1#0486%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B987ms%5D
-trojan://UX82473651@18.141.136.8:443?sni=musical-mouse.rooster465.autos&allowInsecure=0 #0502%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B1077ms%5D
-trojan://UX82473651@18.141.136.8:443?sni=musical-mouse.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0526%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B1232ms%5D
-trojan://UX82473651@3.36.50.213:443?sni=pure-kodiak.rooster465.autos&allowInsecure=1&type=tcp#0529%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1240ms%5D
-trojan://UX82473651@3.36.50.213:443?fp=chrome&sni=pure-kodiak.rooster465.autos&type=tcp#0530%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1293ms%5D
-trojan://UX82473651@3.34.192.47:443?security=tls&type=tcp&sni=central-jawfish.rooster465.autos&allowInsecure=1#0531%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1297ms%5D
-trojan://UX82473651@3.36.50.213:443?sni=pure-kodiak.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0534%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1315ms%5D
-trojan://UX82473651@3.34.192.47:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=central-jawfish.rooster465.autos#0535%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1319ms%5D
-trojan://UX82473651@3.36.50.213:443?security=tls&type=tcp&sni=pure-kodiak.rooster465.autos&allowInsecure=0#0540%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1366ms%5D
-trojan://UX82473651@3.34.192.47:443?security=tls&type=tcp&sni=central-jawfish.rooster465.autos#0549%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1422ms%5D
-trojan://UX82473651@3.36.50.213:443?security=tls&type=tcp&sni=pure-kodiak.rooster465.autos#0551%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1441ms%5D
-trojan://UX82473651@3.34.192.47:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=central-jawfish.rooster465.autos#0559%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1509ms%5D
-trojan://UX82473651@3.36.50.213:443?security=tls&sni=pure-kodiak.rooster465.autos&type=tcp&allowInsecure=0#0582%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1714ms%5D
-trojan://UX82473651@3.36.50.213:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=pure-kodiak.rooster465.autos#0590%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1939ms%5D
-trojan://UX82473651@47.131.250.125:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=simple-molly.rooster465.autos#0615%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B2637ms%5D
-trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@104.18.65.57:443?security=tls&sni=nat3.xxai.dpdns.org&type=ws&host=nat3.xxai.dpdns.org&path=%2Fanyway&allowInsecure=0#0616%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B2637ms%5D
+trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#0188%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B382ms%5D
+trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@@MetiVIP/---@@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--s3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#0223%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B433ms%5D
+trojan://UX82473651@18.141.136.8:443?sni=musical-mouse.rooster465.autos&type=tcp&fp=chrome#0559%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B1058ms%5D
+trojan://UX82473651@3.36.50.213:443?sni=pure-kodiak.rooster465.autos&type=tcp&fp=chrome#0575%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1097ms%5D
+trojan://UX82473651@47.131.250.125:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=simple-molly.rooster465.autos#0589%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B1130ms%5D
+trojan://UX82473651@47.131.250.125:443?sni=simple-molly.rooster465.autos&type=tcp&fp=chrome#0590%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B1135ms%5D
+trojan://UX82473651@18.141.136.8:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=musical-mouse.rooster465.autos#0600%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B1157ms%5D
+trojan://UX82473651@3.36.50.213:443?fp=chrome&sni=pure-kodiak.rooster465.autos&type=tcp#0604%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1168ms%5D
+trojan://UX82473651@3.36.50.213:443?sni=pure-kodiak.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0610%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1186ms%5D
+trojan://UX82473651@3.36.50.213:443?allowInsecure=0&sni=pure-kodiak.rooster465.autos#0612%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1189ms%5D
+trojan://UX82473651@47.131.250.125:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=simple-molly.rooster465.autos#0624%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B1254ms%5D
+trojan://UX82473651@3.36.50.213:443?security=tls&type=tcp&sni=pure-kodiak.rooster465.autos&allowInsecure=0#0626%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1255ms%5D
+trojan://UX82473651@3.36.50.213:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=pure-kodiak.rooster465.autos#0662%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1369ms%5D
+trojan://UX82473651@18.141.136.8:443?sni=musical-mouse.rooster465.autos&allowInsecure=0 #0675%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B1406ms%5D
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@201.10.90.81:443?security=tls&sni=HL-FREEDOM-2.UNDEF.NETWORK&type=ws&path=%2Ff2fc2a1f&host=hl-freedom-2.undef.network&fp=safari#0772%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B2574ms%5D
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@201.10.90.81:443?security=tls&sni=HL-FREEDOM-2.UNDEF.NETWORK&type=ws&path=%2Ff2fc2a1f&host=hl-freedom-2.undef.network&fp=chrome#0802%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B3879ms%5D
