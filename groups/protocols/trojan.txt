@@ -1,9 +1,6 @@
-trojan://cMCQxnflDO@31.76.10.180:36508?type=raw&headerType=none&security=none#0008%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B217ms%5D
-trojan://cMCQxnflDO@31.76.10.180:36508?type=tcp&security=none#0034%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B280ms%5D
-trojan://UX82473651@3.36.50.213:443?sni=pure-kodiak.rooster465.autos&allowInsecure=1&type=tcp#0656%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1074ms%5D
-trojan://UX82473651@3.36.50.213:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pure-kodiak.rooster465.autos#0666%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1138ms%5D
-trojan://UX82473651@3.36.50.213:443?allowInsecure=0&sni=pure-kodiak.rooster465.autos#0669%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20%5B1172ms%5D
-trojan://UX82473651@47.131.250.125:443?sni=simple-molly.rooster465.autos&type=tcp&fp=chrome#0751%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B1704ms%5D
-trojan://UX82473651@47.131.250.125:443?security=tls&sni=simple-molly.rooster465.autos&type=tcp#0756%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B1767ms%5D
-trojan://UX82473651@47.131.250.125:443?security=tls&sni=simple-molly.rooster465.autos#0774%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B2074ms%5D
-trojan://UX82473651@47.131.250.125:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=simple-molly.rooster465.autos#0786%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B2304ms%5D
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&type=tcp&fp=chrome#0788%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B1815ms%5D
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&peer=FREETOPLAY-2.TETRIS-GAME.WORLD&security=tls&fp=android#0843%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B3296ms%5D
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?security=tls&type=tcp&sni=FREETOPLAY-2.TETRIS-GAME.WORLD&allowInsecure=1#0852%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B4100ms%5D
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?allowInsecure=1&sni=FREETOPLAY-2.TETRIS-GAME.WORLD#0861%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B4801ms%5D
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&peer=FREETOPLAY-2.TETRIS-GAME.WORLD&security=tls&fp=chrome#0864%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B5189ms%5D
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD&fp=chrome#0869%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B5877ms%5D

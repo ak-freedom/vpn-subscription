@@ -1,8 +1,5 @@
-anytls://5b4f91fa-e64f-4af0-a5c2-b27ac8b52939@gb2.xiaoliyu.cyou:4430?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=gb2.xiaoliyu.cyou&insecure=1&sub_tag=C002-260622&udp=1&username=5b4f91fa-e64f-4af0-a5c2-b27ac8b52939#0175%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B357ms%5D
-anytls://5b4f91fa-e64f-4af0-a5c2-b27ac8b52939@gb2.xiaoliyu.cyou:4430?insecure=1#0202%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B378ms%5D
-anytls://5b4f91fa-e64f-4af0-a5c2-b27ac8b52939@gb2.xiaoliyu.cyou:4430?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=gb2.xiaoliyu.cyou&insecure=1&sub_tag=R002-260618&udp=1#0277%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B431ms%5D
-anytls://b652305a-0c63-4527-8cb3-0ea582076124@194.113.194.231:1443?insecure=1&sni=ny.freeguard.org#0545%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B799ms%5D
-anytls://0324fbc29561@56481.df6h451rh.xin:443?sni=images.ctfassets.net&insecure=1#0640%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1010ms%5D
-anytls://ec74bb6a86c2@56481.df6h451rh.xin:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=images.ctfassets.net&insecure=1&sub_tag=P002-260618&udp=1#0660%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1103ms%5D
-anytls://0324fbc29561@56481.df6h451rh.xin:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=images.ctfassets.net&insecure=1&sub_tag=P002-260618&udp=1#0661%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1107ms%5D
-anytls://0324fbc29561@98416548.df6h451rh.xin:443?sni=images.ctfassets.net&insecure=1#0766%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1928ms%5D
+anytls://5b4f91fa-e64f-4af0-a5c2-b27ac8b52939@gb2.xiaoliyu.cyou:4430?insecure=1#0200%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B389ms%5D
+anytls://5b4f91fa-e64f-4af0-a5c2-b27ac8b52939@gb2.xiaoliyu.cyou:4430?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=gb2.xiaoliyu.cyou&insecure=1&sub_tag=R002-260618&udp=1#0229%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B411ms%5D
+anytls://5b4f91fa-e64f-4af0-a5c2-b27ac8b52939@gb2.xiaoliyu.cyou:4430?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=gb2.xiaoliyu.cyou&insecure=1&sub_tag=C002-260622&udp=1&username=5b4f91fa-e64f-4af0-a5c2-b27ac8b52939#0289%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B466ms%5D
+anytls://b652305a-0c63-4527-8cb3-0ea582076124@194.113.194.231:1443?insecure=1&sni=ny.freeguard.org#0531%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B761ms%5D
+anytls://0324fbc29561@98416548.df6h451rh.xin:443?sni=images.ctfassets.net&insecure=1#0795%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1925ms%5D
