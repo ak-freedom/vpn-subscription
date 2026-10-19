@@ -1,0 +1,2 @@
+hysteria://5.83.129.90:54177?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#0561%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B1442ms%5D
+hysteria://5.83.129.90:54177/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#0567%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B1495ms%5D
