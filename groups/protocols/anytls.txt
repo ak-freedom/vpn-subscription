@@ -1,4 +1,5 @@
-anytls://b652305a-0c63-4527-8cb3-0ea582076124@194.113.194.231:1443?insecure=1&sni=ny.freeguard.org#0446%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B816ms%5D
-anytls://0324fbc29561@56481.df6h451rh.xin:443?sni=images.ctfassets.net&insecure=1#0535%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1182ms%5D
-anytls://0324fbc29561@654968169.df6h451rh.xin:443?sni=images.ctfassets.net&insecure=1#0554%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1361ms%5D
-anytls://0324fbc29561@98416548.df6h451rh.xin:443?sni=images.ctfassets.net&insecure=1#0646%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1992ms%5D
+anytls://9e98496a-0036-4cc6-8302-3929c29ba772@iijjp.mggl.wang:35791?sni=www.apple.com&insecure=1#0361%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B1044ms%5D
+anytls://0324fbc29561@56481.df6h451rh.xin:443?sni=images.ctfassets.net&insecure=1#0364%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1059ms%5D
+anytls://0324fbc29561@56481.df6h451rh.xin:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=images.ctfassets.net&insecure=1&sub_tag=P002-260618&udp=1#0384%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1127ms%5D
+anytls://b652305a-0c63-4527-8cb3-0ea582076124@194.113.194.231:1443?insecure=1&sni=ny.freeguard.org#0387%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B1144ms%5D
+anytls://0324fbc29561@98416548.df6h451rh.xin:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=images.ctfassets.net&insecure=1&sub_tag=P002-260618&udp=1#0481%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1924ms%5D
