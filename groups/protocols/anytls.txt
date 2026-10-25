@@ -1,4 +1,3 @@
-anytls://0324fbc29561@56481.df6h451rh.xin:443?sni=images.ctfassets.net&insecure=1#0450%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1085ms%5D
-anytls://0324fbc29561@56481.df6h451rh.xin:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=images.ctfassets.net&insecure=1&sub_tag=P002-260618&udp=1#0484%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1310ms%5D
-anytls://0324fbc29561@98416548.df6h451rh.xin:443?sni=images.ctfassets.net&insecure=1#0549%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1927ms%5D
-anytls://0324fbc29561@98416548.df6h451rh.xin:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=images.ctfassets.net&insecure=1&sub_tag=P002-260618&udp=1#0556%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B2075ms%5D
+anytls://0324fbc29561@56481.df6h451rh.xin:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=images.ctfassets.net&insecure=1&sub_tag=P002-260618&udp=1#0477%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1183ms%5D
+anytls://db62309c-486a-4fd5-abc4-4e91ac495d38@user01.godvpn.lol:12686?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=user01.godvpn.lol&insecure=1&sub_tag=C002-260622&udp=1&username=db62309c-486a-4fd5-abc4-4e91ac495d38#0489%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1233ms%5D
+anytls://0324fbc29561@98416548.df6h451rh.xin:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=images.ctfassets.net&insecure=1&sub_tag=P002-260618&udp=1#0592%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1988ms%5D
