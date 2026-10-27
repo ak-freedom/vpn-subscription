@@ -1,3 +1,4 @@
-anytls://0324fbc29561@654968169.df6h451rh.xin:443?security=tls&type=tcp&packetEncoding=none&alpn=http%2F1.1&allowInsecure=1&sni=images.ctfassets.net&fp=chrome&insecure=1&sub_tag=R002-260618&udp=1#0286%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1165ms%5D
-anytls://0324fbc29561@654968169.df6h451rh.xin:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=127.0.0.1&insecure=1&sub_tag=B004-260618&udp=1&username=0324fbc29561&disable_sni=true#0311%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1407ms%5D
-anytls://0324fbc29561@654968169.df6h451rh.xin:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=127.0.0.1&insecure=1&sub_tag=B006-260618&udp=1&username=0324fbc29561#0357%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B2184ms%5D
+anytls://0324fbc29561@56481.df6h451rh.xin:443?sni=images.ctfassets.net&insecure=1#0402%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1111ms%5D
+anytls://0324fbc29561@654968169.df6h451rh.xin:443?sni=images.ctfassets.net&insecure=1#0418%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1254ms%5D
+anytls://0324fbc29561@654968169.df6h451rh.xin:443?sni=127.0.0.1&insecure=1#0443%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1442ms%5D
+anytls://306272e0-865d-456d-b452-42e8e3ee5592@user02.godvpn.lol:53982?insecure=1#0480%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1859ms%5D
