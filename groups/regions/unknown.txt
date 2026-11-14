@@ -1,6 +1,8 @@
-hysteria://5.83.129.143:26691?alpn=h3&auth=dongtaiwang.com&downmbps=55&insecure=1&sub_tag=R002-260618&upmbps=11&x_toolall-mihomo=true&udp=true#0070%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B1347ms%5D
-hysteria://5.83.129.143:26691?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#0078%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B1420ms%5D
-hysteria://137.175.82.44:20022?alpn=h3&auth=dongtaiwang.com&downmbps=55&insecure=1&upmbps=11&x_toolall-mihomo=true&udp=true#0092%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B2122ms%5D
-hysteria://198.200.57.142:22335/?insecure=1&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=11&downmbps=55&alpn=h3#0099%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B2630ms%5D
-hysteria://198.200.57.142:22335?insecure=1&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=11&downmbps=55&alpn=h3#0100%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B2674ms%5D
-hysteria://198.200.57.142:22335?alpn=h3&auth=github.com/Alvin9999-newpac/fanqiang&downmbps=55&insecure=1&upmbps=11&x_toolall-mihomo=true&udp=true#0101%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B2690ms%5D
+hysteria://5.83.129.90:54177?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=apple.com&insecure=1&peer=apple.com&upmbps=11&udp=true#0082%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B1410ms%5D
+hysteria://5.83.129.90:54177?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=1000&protocol=udp&insecure=1&peer=apple.com&upmbps=500&udp=true#0085%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B1448ms%5D
+hysteria://137.175.82.43:20022?alpn=h3&auth=dongtaiwang.com&downmbps=20&password=dongtaiwang.com&servername=bing.com&insecure=1&peer=bing.com&upmbps=20&udp=true#0094%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B2152ms%5D
+hysteria://137.175.82.44:20022?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&insecure=1&peer=bing.com&sub_tag=R002-260618&upmbps=11&x_toolall-mihomo=true&udp=true#0095%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B2179ms%5D
+hysteria://137.175.82.44:20022?alpn=h3&auth=dongtaiwang.com&downmbps=55&insecure=1&upmbps=11&x_toolall-mihomo=true&udp=true#0096%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B2212ms%5D
+hysteria://198.200.57.142:22335?alpn=h3&auth=github.com/Alvin9999-newpac/fanqiang&downmbps=55&password=github.com%2FAlvin9999-newpac%2Ffanqiang&servername=bing.com&insecure=1&peer=bing.com&sub_tag=P002-260618&upmbps=11&udp=true#0100%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B2620ms%5D
+hysteria://198.200.57.142:22335/?insecure=1&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=11&downmbps=55&alpn=h3#0101%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B2628ms%5D
+hysteria://198.200.57.142:22335?insecure=1&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=11&downmbps=55&alpn=h3#0102%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B2684ms%5D
