@@ -1,3 +1,0 @@
-anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?security=tls&type=tcp&allowInsecure=1&sni=images.ctfassets.net&insecure=1&udp=1#0139%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1857ms%5D
-anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?sni=images.ctfassets.net&insecure=1#0140%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1922ms%5D
-anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=images.ctfassets.net&insecure=1&udp=1&username=0324fbc29561#0142%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1991ms%5D
