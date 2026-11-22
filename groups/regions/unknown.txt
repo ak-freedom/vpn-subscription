@@ -1,1 +1,4 @@
-hysteria://198.200.57.142:22335/?insecure=1&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=11&downmbps=55&alpn=h3#0166%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B2788ms%5D
+hysteria://198.200.57.142:22335/?insecure=1&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=11&downmbps=55&alpn=h3#0104%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B2620ms%5D
+hysteria://198.200.57.142:22335?alpn=h3&auth=github.com/Alvin9999-newpac/fanqiang&downmbps=55&password=github.com%2FAlvin9999-newpac%2Ffanqiang&servername=bing.com&insecure=1&peer=bing.com&sub_tag=P002-260618&upmbps=11&udp=true#0105%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B2627ms%5D
+hysteria://38.6.222.132:11008?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&insecure=1&peer=bing.com&upmbps=11#0106%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B2653ms%5D
+hysteria://198.200.57.142:22335?alpn=h3&auth=github.com/Alvin9999-newpac/fanqiang&downmbps=55&insecure=1&password=github.com/Alvin9999-newpac/fanqiang&peer=bing.com&servername=bing.com&upmbps=11#0108%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B2695ms%5D

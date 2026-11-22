@@ -1,1 +1,4 @@
-trojan://LDSLDq9XlM4-92pvTPOUuklMb99BLOCrdyejsupEca4@156.246.93.237:17443?sni=jpk.wentibuxiaobuda.xyz#0116%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B1415ms%5D
+trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=steamstatic.com#0009%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B392ms%5D
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@64.118.130.152:443?security=tls&sni=nb1hk.hikigo.com#0046%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1045ms%5D
+trojan://ec893967c30f4c3a8b6d4c975af95f45@158.101.148.234:443?security=tls&sni=oracle-tokyo-2.waverider.yingdigame.com&fp=ios#0077%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B1459ms%5D
+trojan://ec893967c30f4c3a8b6d4c975af95f45@158.101.148.234:443?security=tls&sni=oracle-tokyo-2.waverider.yingdigame.com#0100%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B1992ms%5D
