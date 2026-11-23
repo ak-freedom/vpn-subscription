@@ -1,4 +1,7 @@
-trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=steamstatic.com#0009%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B392ms%5D
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@64.118.130.152:443?security=tls&sni=nb1hk.hikigo.com#0046%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%5B1045ms%5D
-trojan://ec893967c30f4c3a8b6d4c975af95f45@158.101.148.234:443?security=tls&sni=oracle-tokyo-2.waverider.yingdigame.com&fp=ios#0077%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B1459ms%5D
-trojan://ec893967c30f4c3a8b6d4c975af95f45@158.101.148.234:443?security=tls&sni=oracle-tokyo-2.waverider.yingdigame.com#0100%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B1992ms%5D
+trojan://123456@34.80.15.95:443?security=tls&sni=tw.ctt25.uk&insecure=0&allowInsecure=0&type=tcp&headerType=none&fp=safari#0059%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1524ms%5D
+trojan://123456@34.80.15.95:443?security=tls&sni=tw.ctt25.uk&insecure=0&allowInsecure=0&type=tcp&headerType=none&fp=ios#0066%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1579ms%5D
+trojan://123456@34.80.15.95:443?type=tcp&security=tls&fp=chrome&sni=tw.ctt25.uk#0067%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1582ms%5D
+trojan://123456@34.80.15.95:443?type=tcp&security=tls&sni=tw.ctt25.uk&fp=chrome#0068%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1584ms%5D
+trojan://123456@34.80.15.95:443/?type=tcp&security=tls&sni=tw.ctt25.uk&fp=chrome#0071%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1623ms%5D
+trojan://123456@34.80.15.95:443?security=tls&sni=tw.ctt25.uk&insecure=0&allowInsecure=0&type=tcp&headerType=none#0075%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1754ms%5D
+trojan://123456@34.80.15.95:443?sni=tw.ctt25.uk&type=tcp&fp=chrome#0079%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1927ms%5D

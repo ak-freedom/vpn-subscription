@@ -1,0 +1,2 @@
+hysteria2://b42d90fa667942aebc734d60@159.13.55.48:20000,20000-30000/?insecure=1&obfs=salamander&obfs-password=b42d90fa667942aebc734d60&sni=hy2-au2.whuiy.xyz#0031%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B1290ms%5D
+hysteria2://b42d90fa667942aebc734d60@159.13.55.48:20000,20000-30000/?sni=hy2-au2.whuiy.xyz&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#0080%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%5B1993ms%5D
