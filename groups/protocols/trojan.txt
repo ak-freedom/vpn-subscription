@@ -1,7 +1,0 @@
-trojan://123456@34.80.15.95:443?security=tls&sni=tw.ctt25.uk&insecure=0&allowInsecure=0&type=tcp&headerType=none&fp=safari#0059%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1524ms%5D
-trojan://123456@34.80.15.95:443?security=tls&sni=tw.ctt25.uk&insecure=0&allowInsecure=0&type=tcp&headerType=none&fp=ios#0066%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1579ms%5D
-trojan://123456@34.80.15.95:443?type=tcp&security=tls&fp=chrome&sni=tw.ctt25.uk#0067%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1582ms%5D
-trojan://123456@34.80.15.95:443?type=tcp&security=tls&sni=tw.ctt25.uk&fp=chrome#0068%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1584ms%5D
-trojan://123456@34.80.15.95:443/?type=tcp&security=tls&sni=tw.ctt25.uk&fp=chrome#0071%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1623ms%5D
-trojan://123456@34.80.15.95:443?security=tls&sni=tw.ctt25.uk&insecure=0&allowInsecure=0&type=tcp&headerType=none#0075%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1754ms%5D
-trojan://123456@34.80.15.95:443?sni=tw.ctt25.uk&type=tcp&fp=chrome#0079%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%5B1927ms%5D
