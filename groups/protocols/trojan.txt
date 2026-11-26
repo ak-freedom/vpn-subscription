@@ -1,0 +1,4 @@
+trojan://cWM5aWtWR9@5.101.51.138:8443?alpn=h2&fp=chrome&security=tls&sni=ru-1.krugvpn.me&type=tcp#0020%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B361ms%5D
+trojan://cWM5aWtWR9@5.101.51.138:2095?alpn=h2&fp=edge&security=tls&sni=ru-1.krugvpn.me&type=tcp#0046%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B439ms%5D
+trojan://cWM5aWtWR9@5.101.51.138:2097?alpn=h2&fp=android&security=tls&sni=ru-1.krugvpn.me#0078%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B647ms%5D
+trojan://F9uC3FnWeXPZ9KqEd7oZrcJxfNvvkegq@78.159.250.189:443?type=tcp&headerType=none&security=tls&encryption=none&sni=node228.overgroup.cloud&fp=firefox&alpn=h2%2Chttp%2F1.1#0083%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%5B686ms%5D
